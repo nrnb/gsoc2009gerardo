@@ -1,0 +1,25 @@
+import network /home/gerardo/samples/demo_data/cond-mat-large.sif
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/cond-mat-large.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/cond-mat-large.fd.ps
+destroy cond-mat-large.sif
+import network /home/gerardo/samples/demo_data/cond-mat_small.sif
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/cond-mat_small.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/cond-mat_small.fd.ps
+destroy cond-mat_small.sif
+import network /home/gerardo/samples/demo_data/word_assoc.sif
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/word_assoc.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/word_assoc.fd.ps
+destroy word_assoc.sif
+import network /home/gerardo/samples/demo_data/yeast.sif
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/yeast.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/yeast.fd.ps
+destroy yeast.sif
+exit

@@ -1,0 +1,199 @@
+import network /home/gerardo/samples/gml/144.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/144.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/144.fd.ps
+destroy 144.gml
+import network /home/gerardo/samples/gml/3elt.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/3elt.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/3elt.fd.ps
+destroy 3elt.gml
+import network /home/gerardo/samples/gml/4elt.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/4elt.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/4elt.fd.ps
+destroy 4elt.gml
+import network /home/gerardo/samples/gml/598a.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/598a.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/598a.fd.ps
+destroy 598a.gml
+import network /home/gerardo/samples/gml/add20.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/add20.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/add20.fd.ps
+destroy add20.gml
+import network /home/gerardo/samples/gml/add32.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/add32.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/add32.fd.ps
+destroy add32.gml
+import network /home/gerardo/samples/gml/auto.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/auto.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/auto.fd.ps
+destroy auto.gml
+import network /home/gerardo/samples/gml/bcsstk29.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/bcsstk29.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/bcsstk29.fd.ps
+destroy bcsstk29.gml
+import network /home/gerardo/samples/gml/bcsstk30.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/bcsstk30.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/bcsstk30.fd.ps
+destroy bcsstk30.gml
+import network /home/gerardo/samples/gml/bcsstk31.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/bcsstk31.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/bcsstk31.fd.ps
+destroy bcsstk31.gml
+import network /home/gerardo/samples/gml/bcsstk32.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/bcsstk32.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/bcsstk32.fd.ps
+destroy bcsstk32.gml
+import network /home/gerardo/samples/gml/bcsstk33.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/bcsstk33.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/bcsstk33.fd.ps
+destroy bcsstk33.gml
+import network /home/gerardo/samples/gml/brack2.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/brack2.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/brack2.fd.ps
+destroy brack2.gml
+import network /home/gerardo/samples/gml/crack.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/crack.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/crack.fd.ps
+destroy crack.gml
+import network /home/gerardo/samples/gml/cs4.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/cs4.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/cs4.fd.ps
+destroy cs4.gml
+import network /home/gerardo/samples/gml/cti.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/cti.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/cti.fd.ps
+destroy cti.gml
+import network /home/gerardo/samples/gml/data.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/data.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/data.fd.ps
+destroy data.gml
+import network /home/gerardo/samples/gml/fe_4elt2.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/fe_4elt2.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/fe_4elt2.fd.ps
+destroy fe_4elt2.gml
+import network /home/gerardo/samples/gml/fe_body.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/fe_body.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/fe_body.fd.ps
+destroy fe_body.gml
+import network /home/gerardo/samples/gml/fe_ocean.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/fe_ocean.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/fe_ocean.fd.ps
+destroy fe_ocean.gml
+import network /home/gerardo/samples/gml/fe_pwt.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/fe_pwt.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/fe_pwt.fd.ps
+destroy fe_pwt.gml
+import network /home/gerardo/samples/gml/fe_rotor.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/fe_rotor.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/fe_rotor.fd.ps
+destroy fe_rotor.gml
+import network /home/gerardo/samples/gml/fe_sphere.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/fe_sphere.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/fe_sphere.fd.ps
+destroy fe_sphere.gml
+import network /home/gerardo/samples/gml/fe_tooth.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/fe_tooth.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/fe_tooth.fd.ps
+destroy fe_tooth.gml
+import network /home/gerardo/samples/gml/m14b.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/m14b.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/m14b.fd.ps
+destroy m14b.gml
+import network /home/gerardo/samples/gml/memplus.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/memplus.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/memplus.fd.ps
+destroy memplus.gml
+import network /home/gerardo/samples/gml/t60k.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/t60k.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/t60k.fd.ps
+destroy t60k.gml
+import network /home/gerardo/samples/gml/uk.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/uk.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/uk.fd.ps
+destroy uk.gml
+import network /home/gerardo/samples/gml/vibrobox.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/vibrobox.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/vibrobox.fd.ps
+destroy vibrobox.gml
+import network /home/gerardo/samples/gml/wave.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/wave.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/wave.fd.ps
+destroy wave.gml
+import network /home/gerardo/samples/gml/whitaker3.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/whitaker3.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/whitaker3.fd.ps
+destroy whitaker3.gml
+import network /home/gerardo/samples/gml/wing.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/wing.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/wing.fd.ps
+destroy wing.gml
+import network /home/gerardo/samples/gml/wing_nodal.gml
+layout gpu-assisted-layout
+export network as ps to /home/gerardo/output_images/wing_nodal.gpu.ps
+layout force-directed
+export network as ps to /home/gerardo/output_images/wing_nodal.fd.ps
+destroy wing_nodal.gml
+exit
